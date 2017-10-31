@@ -1,0 +1,5 @@
+com\hm\sistema\servicioglassfish\model\TbcmPaisOrigen_.class
+com\hm\sistema\servicioglassfish\servicioweb\PaisServicioWeb.class
+com\hm\sistema\servicioglassfish\model\TbcmPaisOrigen.class
+com\hm\sistema\servicioglassfish\servicio\PaisServicio.class
+com\hm\sistema\servicioglassfish\servicioweb\ApplicationConfig.class
